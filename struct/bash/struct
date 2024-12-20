@@ -1,0 +1,8 @@
+#!/bin/bash
+
+mkdir $1
+cd $1
+mkdir src
+mkdir assets
+touch Makefile
+touch src/main.$2
