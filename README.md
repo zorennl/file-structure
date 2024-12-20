@@ -11,3 +11,6 @@
         Linux:
             take the struct/bash/struct file and put it in your ~/.bin
 
+        Windows:
+            not sure
+
